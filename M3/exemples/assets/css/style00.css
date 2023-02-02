@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+div {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 22px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 18px;
+  color: #88100f;
+  font-weight: normal;
+  text-align: center;
+}
+
+h3 {
+  font-size: 16px;
+  text-decoration: underline;
+  color: #88100f;
+}
+
+ul li p {
+  font-size: 14px;
+  line-height: 28px;
+}
+
+.margem {
+  background-color: lightblue;
+  margin-left: 40px;
+}
+
+.padding {
+  padding: 30px;
+  background-color: #88100f;
+}
